@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/mahyarLearn/static/js/main.22fabc4f.chunk.js",
+    "main.js.map": "/mahyarLearn/static/js/main.22fabc4f.chunk.js.map",
+    "runtime-main.js": "/mahyarLearn/static/js/runtime-main.6d34644d.js",
+    "runtime-main.js.map": "/mahyarLearn/static/js/runtime-main.6d34644d.js.map",
+    "static/css/2.5a56e189.chunk.css": "/mahyarLearn/static/css/2.5a56e189.chunk.css",
+    "static/js/2.fed75ddb.chunk.js": "/mahyarLearn/static/js/2.fed75ddb.chunk.js",
+    "static/js/2.fed75ddb.chunk.js.map": "/mahyarLearn/static/js/2.fed75ddb.chunk.js.map",
+    "index.html": "/mahyarLearn/index.html",
+    "static/css/2.5a56e189.chunk.css.map": "/mahyarLearn/static/css/2.5a56e189.chunk.css.map",
+    "static/js/2.fed75ddb.chunk.js.LICENSE.txt": "/mahyarLearn/static/js/2.fed75ddb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d34644d.js",
+    "static/css/2.5a56e189.chunk.css",
+    "static/js/2.fed75ddb.chunk.js",
+    "static/js/main.22fabc4f.chunk.js"
+  ]
+}
